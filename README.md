@@ -41,7 +41,7 @@ npm --version
 
 ### 1. Cloner le projet
 ```bash
-git clone <url-du-repository>
+git clone https://github.com/Dakar2024/Data-Engineer-.git
 cd data-engineering-2025
 ```
 
